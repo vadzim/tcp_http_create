@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import http from "http"
 import net from "net"
 import { randomUUID } from "node:crypto"
